@@ -128,7 +128,7 @@
       "id": 4,
       "userId": 4,
       "name": "Peter Parker",
-      "skills": [[{"skill": "javascript"}, {"skill": "php"}],
+      "skills": [{"skill": "javascript"}, {"skill": "php"}],
       "topMatches": ["Facebook"],
       "updateDate": "1/9/2018",
       "email": "peter@gmail.com"
