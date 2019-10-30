@@ -304,5 +304,47 @@
       "topMatches": "IBM",
       "Date": "15/3/2019"
     }
+  ],
+  "candidates": [
+    {
+      "candidateId": 1,
+      "userId": 1,
+      "name": "John Doe",
+      "skills": ["javascript", "python", "react", "java", "php"],
+      "topMatches": ["IBM", "apple", "Facebook"],
+      "updateDate": "15/3/2019"
+    },
+    {
+      "candidateId": 2,
+      "userId": 1,
+      "name": "Pepe Grillo",
+      "skills": ["javascript", "java", "php"],
+      "topMatches": ["IBM", "Facebook"],
+      "updateDate": "15/1/2019"
+    },
+    {
+      "candidateId": 3,
+      "userId": 2,
+      "name": "Jack Johnson",
+      "skills": ["react", "java", "php"],
+      "topMatches": ["IBM"],
+      "updateDate": "11/4/2018"
+    },
+    {
+      "candidateId": 4,
+      "userId": 8,
+      "name": "Peter Parker",
+      "skills": ["javascript", "php"],
+      "topMatches": ["Facebook"],
+      "updateDate": "1/9/2018"
+    },
+    {
+      "candidateId": 5,
+      "userId": 6,
+      "name": "Bruce Wayne",
+      "skills": ["java", "php"],
+      "topMatches": ["IBM", "Facebook"],
+      "updateDate": "1/1/2019"
+    }
   ]
 }
