@@ -312,7 +312,8 @@
       "name": "John Doe",
       "skills": ["javascript", "python", "react", "java", "php"],
       "topMatches": ["IBM", "apple", "Facebook"],
-      "updateDate": "15/3/2019"
+      "updateDate": "15/3/2019",
+      "email": "johndoe@gmail.com"
     },
     {
       "candidateId": 2,
@@ -320,7 +321,8 @@
       "name": "Pepe Grillo",
       "skills": ["javascript", "java", "php"],
       "topMatches": ["IBM", "Facebook"],
-      "updateDate": "15/1/2019"
+      "updateDate": "15/1/2019",
+      "email": "pepito@gmail.com"
     },
     {
       "candidateId": 3,
@@ -328,7 +330,8 @@
       "name": "Jack Johnson",
       "skills": ["react", "java", "php"],
       "topMatches": ["IBM"],
-      "updateDate": "11/4/2018"
+      "updateDate": "11/4/2018",
+      "email": "jack@gmail.com"
     },
     {
       "candidateId": 4,
@@ -336,7 +339,8 @@
       "name": "Peter Parker",
       "skills": ["javascript", "php"],
       "topMatches": ["Facebook"],
-      "updateDate": "1/9/2018"
+      "updateDate": "1/9/2018",
+      "email": "peter@gmail.com"
     },
     {
       "candidateId": 5,
@@ -344,7 +348,8 @@
       "name": "Bruce Wayne",
       "skills": ["java", "php"],
       "topMatches": ["IBM", "Facebook"],
-      "updateDate": "1/1/2019"
+      "updateDate": "1/1/2019",
+      "email": "bruce@gmail.com"
     }
   ]
 }
