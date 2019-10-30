@@ -130,7 +130,7 @@
       "updateDate": "11/4/2018",
       "email": "jack@gmail.com",
       "pictures": [
-        { "url": "./candidateImages/image3.png", "desc": "picture" }
+        { "url": "http://10.87.215.243:3000/src/candidateImages/image3.png", "desc": "picture" }
       ]
     },
     {
@@ -142,7 +142,7 @@
       "updateDate": "1/9/2018",
       "email": "peter@gmail.com",
       "pictures": [
-        { "url": "./candidateImages/image4.png", "desc": "picture" }
+        { "url": "http://10.87.215.243:3000/public/candidateImages/image4.png", "desc": "picture" }
       ]
     },
     {
