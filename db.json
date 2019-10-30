@@ -98,7 +98,7 @@
   ],
   "candidates": [
     {
-      "candidateId": 1,
+      "id": 1,
       "userId": 1,
       "name": "John Doe",
       "skills": ["javascript", "python", "react", "java", "php"],
@@ -107,7 +107,7 @@
       "email": "johndoe@gmail.com"
     },
     {
-      "candidateId": 2,
+      "id": 2,
       "userId": 1,
       "name": "Pepe Grillo",
       "skills": ["javascript", "java", "php"],
@@ -116,7 +116,7 @@
       "email": "pepito@gmail.com"
     },
     {
-      "candidateId": 3,
+      "id": 3,
       "userId": 2,
       "name": "Jack Johnson",
       "skills": ["react", "java", "php"],
@@ -125,7 +125,7 @@
       "email": "jack@gmail.com"
     },
     {
-      "candidateId": 4,
+      "id": 4,
       "userId": 4,
       "name": "Peter Parker",
       "skills": ["javascript", "php"],
@@ -134,7 +134,7 @@
       "email": "peter@gmail.com"
     },
     {
-      "candidateId": 5,
+      "id": 5,
       "userId": 2,
       "name": "Bruce Wayne",
       "skills": ["java", "php"],
