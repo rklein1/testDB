@@ -104,7 +104,10 @@
       "skills": [{"skill": "javascript"}, {"skill": "python"}, {"skill": "react"}, {"skill": "java"}, {"skill": "php"}],
       "topMatches": [{"company": "IBM"}, {"company": "apple"}, {"company": "Facebook"}],
       "updateDate": "15/3/2019",
-      "email": "johndoe@gmail.com"
+      "email": "johndoe@gmail.com",
+      "pictures": [
+        { "url": "./candidateImages/image1.png", "desc": "picture" }
+      ]
     },
     {
       "id": 2,
@@ -113,7 +116,10 @@
       "skills": [{"skill": "javascript"}, {"skill": "php"}],
       "topMatches": [{"company": "apple"}, {"company": "Facebook"}],
       "updateDate": "15/1/2019",
-      "email": "pepito@gmail.com"
+      "email": "pepito@gmail.com",
+      "pictures": [
+        { "url": "./candidateImages/image2.png", "desc": "picture" }
+      ]
     },
     {
       "id": 3,
@@ -122,7 +128,10 @@
       "skills": [{"skill": "javascript"}, {"skill": "react"}, {"skill": "php"}],
       "topMatches": [{"company": "IBM"}],
       "updateDate": "11/4/2018",
-      "email": "jack@gmail.com"
+      "email": "jack@gmail.com",
+      "pictures": [
+        { "url": "./candidateImages/image3.png", "desc": "picture" }
+      ]
     },
     {
       "id": 4,
@@ -131,7 +140,10 @@
       "skills": [{"skill": "javascript"}, {"skill": "php"}],
       "topMatches": [{"company": "Facebook"}],
       "updateDate": "1/9/2018",
-      "email": "peter@gmail.com"
+      "email": "peter@gmail.com",
+      "pictures": [
+        { "url": "./candidateImages/image4.png", "desc": "picture" }
+      ]
     },
     {
       "id": 5,
@@ -140,7 +152,10 @@
       "skills": [{"skill": "javascript"}],
       "topMatches": [{"company": "IBM"}, {"company": "Facebook"}],
       "updateDate": "1/1/2019",
-      "email": "bruce@gmail.com"
+      "email": "bruce@gmail.com",
+      "pictures": [
+        { "url": "./candidateImages/image5.png", "desc": "picture" }
+      ]
     }
   ]
 }
