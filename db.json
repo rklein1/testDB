@@ -106,7 +106,7 @@
       "updateDate": "15/3/2019",
       "email": "johndoe@gmail.com",
       "pictures": [
-        { "url": "./candidateImages/image1.png", "desc": "picture" }
+        { "url": "http://localhost:3000/src/candidateImages/image1.png", "desc": "picture" }
       ]
     },
     {
@@ -118,7 +118,7 @@
       "updateDate": "15/1/2019",
       "email": "pepito@gmail.com",
       "pictures": [
-        { "url": "./candidateImages/image2.png", "desc": "picture" }
+        { "url": "http://localhost:3000/public/candidateImages/image2.png", "desc": "picture" }
       ]
     },
     {
