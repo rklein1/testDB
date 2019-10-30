@@ -102,7 +102,7 @@
       "userId": 1,
       "name": "John Doe",
       "skills": [{"skill": "javascript"}, {"skill": "python"}, {"skill": "react"}, {"skill": "java"}, {"skill": "php"}],
-      "topMatches": ["IBM", "apple", "Facebook"],
+      "topMatches": [{"company": "IBM"}, {"company": "apple"}, {"company": "Facebook"}],
       "updateDate": "15/3/2019",
       "email": "johndoe@gmail.com"
     },
@@ -111,7 +111,7 @@
       "userId": 1,
       "name": "Pepe Grillo",
       "skills": [{"skill": "javascript"}, {"skill": "php"}],
-      "topMatches": ["IBM", "Facebook"],
+      "topMatches": [{"company": "apple"}, {"company": "Facebook"}],
       "updateDate": "15/1/2019",
       "email": "pepito@gmail.com"
     },
@@ -120,7 +120,7 @@
       "userId": 2,
       "name": "Jack Johnson",
       "skills": [{"skill": "javascript"}, {"skill": "react"}, {"skill": "php"}],
-      "topMatches": ["IBM"],
+      "topMatches": [{"company": "IBM"}],
       "updateDate": "11/4/2018",
       "email": "jack@gmail.com"
     },
@@ -129,7 +129,7 @@
       "userId": 4,
       "name": "Peter Parker",
       "skills": [{"skill": "javascript"}, {"skill": "php"}],
-      "topMatches": ["Facebook"],
+      "topMatches": [{"company": "Facebook"}],
       "updateDate": "1/9/2018",
       "email": "peter@gmail.com"
     },
@@ -138,7 +138,7 @@
       "userId": 2,
       "name": "Bruce Wayne",
       "skills": [{"skill": "javascript"}],
-      "topMatches": ["IBM", "Facebook"],
+      "topMatches": [{"company": "IBM"}, {"company": "Facebook"}],
       "updateDate": "1/1/2019",
       "email": "bruce@gmail.com"
     }
