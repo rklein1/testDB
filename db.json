@@ -156,6 +156,18 @@
       "pictures": [
         { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image5.png", "desc": "picture" }
       ]
+    },
+    {
+      "id": 6,
+      "userId": 2,
+      "name": Daniel Martin",
+      "skills": [{"skill": "javascript"}],
+      "topMatches": [{"company": "IBM"}, {"company": "Facebook"}],
+      "updateDate": "1/1/2019",
+      "email": "bruce@gmail.com",
+      "pictures": [
+        { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image5.png", "desc": "picture" }
+      ]
     }
   ]
 }
