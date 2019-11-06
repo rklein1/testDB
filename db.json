@@ -160,14 +160,15 @@
     {
       "id": 6,
       "userId": 2,
-      "name": Daniel Martin",
+      "name": "Daniel Martin",
       "skills": [{"skill": "javascript"}],
       "topMatches": [{"company": "IBM"}, {"company": "Facebook"}],
       "updateDate": "1/1/2019",
       "email": "bruce@gmail.com",
       "pictures": [
-        { "url": "https://crm-user-images.s3-eu-west-1.amazonaws.com/image5.png", "desc": "picture" }
-      ]
+        { "url": "https://media.licdn.com/dms/image/C4E03AQGUS1L_IVpU0A/profile-displayphoto-shrink_200_200/0?e=1578528000&v=beta&t=ihPvESeEBJYp8UJKMWviWmGaKzJsVWCen0TcKR_xAYM", "desc": "picture" }
+      ],
+      "linkedinUrl": "https://www.linkedin.com/in/daniel-mantin-1934b089/"
     }
   ]
 }
